@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-axton.cc	TRUE	/	FALSE	1999999999	PHPSESSID	0knd1g57q2qe0llbivkco2etoe
-.axton.cc	TRUE	/	FALSE	1999999999	__cfduid	dfdf21ce5cb4a25a8abcb93a9f255be811585625628
-axton.cc	TRUE	/	FALSE	1999999999	SameSite	Lax
-
